@@ -1,7 +1,7 @@
 # BibleApi
 
 ### Description
-This is a Kotlin API for serving Bible passages
+This is a REST API for serving Bible passages
 
 #### Technologies used
 1. Kotlin
