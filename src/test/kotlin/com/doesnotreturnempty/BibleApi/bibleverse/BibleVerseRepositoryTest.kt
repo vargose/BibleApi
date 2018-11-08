@@ -1,4 +1,4 @@
-package com.doesnotreturnempty.BibleApi.greeting
+package com.doesnotreturnempty.BibleApi.bibleverse
 
 import com.doesnotreturnempty.BibleApi.bibleverse.BibleVerse
 import com.doesnotreturnempty.BibleApi.bibleverse.BibleVerseRepository
