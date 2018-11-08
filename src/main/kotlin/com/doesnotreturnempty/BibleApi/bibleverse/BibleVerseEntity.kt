@@ -6,7 +6,7 @@ import javax.persistence.Id
 
 
 @Entity(name = "engwebp_vpl")
-data class BibleVerse(
+data class BibleVerseEntity(
 
         @Id
         @Column(name = "verseID")
