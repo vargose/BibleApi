@@ -1,4 +1,4 @@
-# BibleApi
+# Bible Api Kyrios
 
 ### Description
 This is a REST API for serving Bible passages

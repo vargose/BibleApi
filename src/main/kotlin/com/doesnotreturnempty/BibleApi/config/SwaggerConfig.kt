@@ -1,4 +1,4 @@
-package com.doesnotreturnempty.BibleApi.config
+package com.doesnotreturnempty.BibleApiKyrios.config
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

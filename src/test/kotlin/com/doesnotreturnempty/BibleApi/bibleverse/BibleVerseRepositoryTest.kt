@@ -1,4 +1,4 @@
-package com.doesnotreturnempty.BibleApi.bibleverse
+package com.doesnotreturnempty.BibleApiKyrios.bibleverse
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test

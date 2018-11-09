@@ -1,4 +1,4 @@
-package com.doesnotreturnempty.BibleApi.greeting
+package com.doesnotreturnempty.BibleApiKyrios.greeting
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.BeforeEach

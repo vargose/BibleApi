@@ -1,4 +1,4 @@
-package com.doesnotreturnempty.BibleApi.bibleverse
+package com.doesnotreturnempty.BibleApiKyrios.bibleverse
 
 import javax.persistence.Column
 import javax.persistence.Entity

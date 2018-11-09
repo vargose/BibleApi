@@ -1,4 +1,4 @@
-package com.doesnotreturnempty.BibleApi.greeting
+package com.doesnotreturnempty.BibleApiKyrios.greeting
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam
